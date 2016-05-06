@@ -10,7 +10,7 @@ int main()
 {
 	int i;
 	for (i = 0; i < 3; i++)
-		std::cout << "Hello, World!\n";
+		cout << "Hello, World!"<<endl;
 	getchar();
     return 0;
 }
