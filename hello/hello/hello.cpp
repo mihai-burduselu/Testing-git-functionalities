@@ -6,7 +6,9 @@
 
 int main()
 {
-	std::cout << "Hello, World!\n";
+	int i;
+	for (i = 0; i < 3; i++)
+		std::cout << "Hello, World!\n";
 	getchar();
     return 0;
 }
