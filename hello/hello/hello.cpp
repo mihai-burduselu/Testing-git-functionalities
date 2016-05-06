@@ -9,9 +9,10 @@ using namespace std;
 int main()
 {
 	int i;
-	for (i = 0; i < 3; i++)
-		cout << "Hello, World!"<<endl;
+	for (i = 0; i < 3; i++) {
+		cout << "Hello, World!" << endl;
+	}
 	getchar();
-    return 0;
+	return 0;
 }
 
